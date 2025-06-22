@@ -88,13 +88,13 @@ Vara: Juizado Especial Cível JUÍZO DE DIREITO DA VARA DO JUIZADO ESPECIAL CÍV
 
 Publicação: EDITAL DE INTIMAÇÃO DE PARTES E ADVOGADOS. RELAÇÃO Nº 0754/2024
 
-Processo 1008441-68.2023.8.26.0576 - Procedimento do Juizado Especial Civel - Indenizacao por Dano Moral - MARIANA TEODORO VILELA - Picpay Instituicao de Pagamento S/A - "Peticao e documentos juntados pela parte REQUERIDA a fls. 230/231 : ciencia a parte contraria, com 05 (cinco) dias para manifestacao. (Prazo: contam-se apenas os dias uteis, de acordo com o art. 12-A da Lei n. 9.099/95 e a contagem do prazo nos Juizados Especiais Civeis e da data da ciencia do ato respectivo (PUIL nº 28 - Turma de Uniformizacao dos Juizados Especiais) e nao da juntada aos autos do comprovante de intimacao ou citacao, excluindo o dia do comecoe incluindo o dia do vencimento.)" - ADV: CARLOS AUGUSTO TORTORO JUNIOR (OAB 247319/SP), MARIANA TEODORO VILELA (OAB 485303/SP)
+Processo XXXXXXX-XX.2023.8.26.0576 - Procedimento do Juizado Especial Civel - Indenizacao por Dano Moral - MARIANA TEODORO VILELA - Picpay Instituicao de Pagamento S/A - "Peticao e documentos juntados pela parte REQUERIDA a fls. 230/231 : ciencia a parte contraria, com 05 (cinco) dias para manifestacao. (Prazo: contam-se apenas os dias uteis, de acordo com o art. 12-A da Lei n. 9.099/95 e a contagem do prazo nos Juizados Especiais Civeis e da data da ciencia do ato respectivo (PUIL nº 28 - Turma de Uniformizacao dos Juizados Especiais) e nao da juntada aos autos do comprovante de intimacao ou citacao, excluindo o dia do comecoe incluindo o dia do vencimento.)" - ADV: FULADO DE TAL (OAB XXXXXX/SP), MARIANA TEODORO VILELA (OAB 485303/SP)
 
 ## Saída
 
 Resultado:
 
-- **Processo:** 1008441-68.2023.8.26.0576
+- **Processo:** XXXXXXX-XX.2023.8.26.0576
 - **Vara:** Juizado Especial Cível — JUÍZO DE DIREITO DA VARA DO JUIZADO ESPECIAL CÍVEL
 - **Partes:** Mariana Teodoro Vilela (autora) x Picpay Instituição de Pagamento S/A (ré)
 - **Resultado da decisão:** Ciência à parte contrária de petição e documentos juntados; prazo de 5 dias úteis para manifestação
